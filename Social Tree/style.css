@@ -1,0 +1,142 @@
+body {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  background: #FAF7FD;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  width: 328.24px;
+  height: 621.46px;
+  left: 519.38px;
+  
+}
+
+.img {
+
+  border: solid 1px #efefef;
+  border-radius: 100px;
+  display: block;
+  height: 100px;
+  margin: 10px auto 10px;
+  width: 100px;
+}
+
+label {
+  font-family: 'League Gothic', sans-serif;
+  color: #BB99DD;
+  margin: 10px auto 10px;
+}
+
+.retangule1 {
+  box-sizing: border-box;
+  width: 326.24px;
+  height: 49.04px;
+  left: 519.38px;
+  top: 486.36px;
+  border: 2.00147px solid #BB99DD;
+  border-radius: 4.00293px;
+}
+
+.retangule2 {
+  box-sizing: border-box;
+  width: 326.24px;
+  height: 49.04px;
+  left: 519.38px;
+  top: 551.4px;
+
+  border: 2.00147px solid #BB99DD;
+  border-radius: 4.00293px;
+}
+
+.retangule3 {
+  box-sizing: border-box;
+  width: 326.24px;
+  height: 49.04px;
+  left: 519.38px;
+  top: 616.45px;
+
+  border: 2.00147px solid #BB99DD;
+  border-radius: 4.00293px;
+}
+
+.retangule4 {
+  box-sizing: border-box;
+  width: 326.24px;
+  height: 49.04px;
+  left: 519.38px;
+  top: 616.45px;
+
+  border: 2.00147px solid #BB99DD;
+  border-radius: 4.00293px;
+}
+
+a {
+  display: flex;
+  flex-direction: column;
+  width: 326.24px;
+  height: 45.04px;
+  left: 519.38px;
+  top: 486.36px;
+
+  font-family: 'League Gothic', sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16.0117px;
+  line-height: 44px;
+  text-transform: uppercase;
+  text-align: center;
+  color: #BB99DD;
+}
+
+.icon-social-media {
+  display: flex;
+  padding-inline-start: 60px;
+}
+
+.icon-twitter {
+  background-image: url(./assets/twitter.svg);
+  width: 25px;
+  height: 25px;
+  margin-right: 1em;
+  cursor: pointer;
+}
+
+.icon-twitch {
+  background-image: url(./assets/twitch.svg);
+  width: 25px;
+  height: 25px;
+  margin-right: 1em;
+  cursor: pointer;
+}
+
+.icon-github {
+  background-image: url(./assets/github.svg);
+  width: 24px;
+  height: 24px;
+  margin-right: 1em;
+  cursor: pointer;
+
+}
+
+.icon-instagram {
+  background-image: url(./assets/instagram.svg);
+  width: 25px;
+  height: 25px;
+  margin-right: 1em;
+  cursor: pointer;
+}
+
+.icon-linkedin {
+  background-image: url(./assets/linkedin.svg);
+  width: 25px;
+  height: 25px;
+  margin-right: 1em;
+  cursor: pointer;
+}
+
+
+
